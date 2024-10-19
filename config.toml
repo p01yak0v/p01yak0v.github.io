@@ -1,0 +1,54 @@
+baseURL = 'http://polyakov.io/'
+languageCode = 'ru-ru'
+title = 'Даниил Поляков'
+theme = 'hugo-coder'
+languagecode = "ru"
+defaultcontentlanguage = "ru"
+
+[params]
+  since = 2012
+  gravatar = "daniil.polyakov@gmail.com"
+  author = "Даниил Поляков"
+  info = "Инженер, идущий к реке"
+  dateFormat = "2 January, 2006"
+
+[[menu.main]]
+  name = "Обо мне"
+  weight = 1
+  url = "about/"
+
+[[menu.main]]
+  name = "Блог"
+  weight = 2
+  url  = "blog/"
+
+#[[menu.main]]
+#  name = "Выступления"
+#  weight = 3
+#  url = "speaker/"
+
+#[[menu.main]]
+#  name = "Проекты"
+#  weight = 4
+#  url = "projects/"
+
+#[[menu.main]]
+#  name = "CV"
+#  weight = 5
+#  url = "cv/"
+
+[[params.social]]
+  name = "Github"
+  icon = "fa fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/p01yak0v/"
+[[params.social]]
+  name = "Telegram"
+  icon = "fa fa-telegram fa-2x"
+  weight = 2
+  url = "https://t.me/p01yak0v"
+[[params.social]]
+  name = "Twitter"
+  icon = "fa fa-twitter fa-2x"
+  weight = 3
+  url = "https://twitter.com/p01y4k0v/"
