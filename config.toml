@@ -9,7 +9,7 @@ defaultcontentlanguage = "ru"
   since = 2012
   gravatar = "daniil.polyakov@gmail.com"
   author = "Даниил Поляков"
-  info = "Инженер, идущий к реке"
+  info = ""
   dateFormat = "2 January, 2006"
 
 [[menu.main]]
@@ -17,15 +17,15 @@ defaultcontentlanguage = "ru"
   weight = 1
   url = "about/"
 
-[[menu.main]]
-  name = "Блог"
-  weight = 2
-  url  = "blog/"
-
 #[[menu.main]]
-#  name = "Выступления"
-#  weight = 3
-#  url = "speaker/"
+#  name = "Блог"
+#  weight = 2
+#  url  = "blog/"
+
+[[menu.main]]
+  name = "Спикер"
+  weight = 3
+  url = "speaker/"
 
 #[[menu.main]]
 #  name = "Проекты"
@@ -52,3 +52,8 @@ defaultcontentlanguage = "ru"
   icon = "fa fa-twitter fa-2x"
   weight = 3
   url = "https://twitter.com/p01y4k0v/"
+[[params.social]]
+  name = "LinkedIn"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 4
+  url = "https://www.linkedin.com/in/p01yak0v/"
