@@ -12,6 +12,10 @@ defaultcontentlanguage = "ru"
   info = ""
   dateFormat = "2 January, 2006"
 
+[services]
+  [services.googleAnalytics]
+    ID = 'G-DQEXZBFJKV'
+
 [[menu.main]]
   name = "Обо мне"
   weight = 1
