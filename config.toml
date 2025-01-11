@@ -76,3 +76,13 @@ defaultcontentlanguage = "ru"
   icon = "fa fa-linkedin fa-2x"
   weight = 4
   url = "https://www.linkedin.com/in/p01yak0v/"
+
+[params.telegram] # https://comments.app/
+siteID = "PuVIzZXd"
+limit = 5
+height = "auto"
+color = "default"
+dislikes = true
+outlined = false
+colorful = true
+dark = false
