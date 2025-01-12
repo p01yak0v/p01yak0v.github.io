@@ -4,7 +4,7 @@ description: "Описание сюжета книги \"Цель\" (Э. Гол�
 date: "2025-01-12"
 publishDate: "2025-01-11"
 lastmod: "2025-01-13"
-slug: the-goal-review
+slug: the-goal-book-review
 tags:
   - "менеджмент"
   - "канбан"
